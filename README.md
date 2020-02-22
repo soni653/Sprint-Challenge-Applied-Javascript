@@ -30,13 +30,26 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document object model > it allows JS to modify HTML elements through an abstracted version of 
+an HTML page/site.	
+
 2. What is an event?
+
+An event is an instance of an action taking place. Could be as simple as a click, or could be
+when the entire page is loaded.
 
 3. What is an event listener?
 
+An event listener looks for an event, possibly an event on a specific part of the DOM, and then
+executes a function
+
 4. Why would we convert a NodeList into an Array?
 
+So you can use array functions to manipulate the data in a node list
+
 5. What is a component?
+
+Components are the building block to modern application development. Being able to use HTML, CSS, and JS in a reusable way opens up new possibilities for web developers.
 
 ### Git Set up
 
